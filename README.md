@@ -1,3 +1,5 @@
+Readme.md
+
 # Final_gcdcp
 Getting and Cleaning Data Course Project
 Dataset
@@ -15,3 +17,6 @@ run_analysis.R allows us to prepare the data file as required by the project:
 5-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 FinalData.txt is the exported final data after performing all required steps
+
+
+
